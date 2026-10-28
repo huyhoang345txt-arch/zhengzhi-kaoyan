@@ -33,3 +33,6 @@ blockquote { margin: .6em 0; padding: .4em .9em; border-left: 4px solid var(--li
 .fuzzy { background: #d99a2b; } .hot { background: var(--accent); }
 .legend { font-size: 9.5pt; color: var(--muted); }
 h1.title { background: none; padding: 0; border-radius: 0; color: var(--accent); break-before: auto; }
+:root { --purple: #6a4c93; --purple-soft: #f3eff8; }
+.example { background: var(--purple-soft); border-left: 5px solid var(--purple); }
+.flow { text-align: center; font-weight: bold; color: var(--blue); background: var(--blue-soft); }

@@ -12,3 +12,4 @@
 | 模块 | 内容 | PDF |
 |---|---|---|
 | 马原 | 哲学部分（导论～第三章） | [mayuan-01-zhexue.pdf](pdf/mayuan-01-zhexue.pdf) |
+| 马原 | 政治经济学（第四～五章） | [mayuan-02-zhengjing.pdf](pdf/mayuan-02-zhengjing.pdf) |
